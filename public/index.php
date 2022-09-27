@@ -1,6 +1,6 @@
 <?php
 
-use App\Kernel;
+use Olympus\Cloudflare\Kernel;
 
 require_once dirname(__DIR__).'/vendor/autoload_runtime.php';
 
